@@ -143,4 +143,11 @@ a {
   -webkit-transition: all 1s ease;
   transition: all 1s ease;
 }
+
+.landing-title {
+  color: #feda6a;
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
 /*# sourceMappingURL=styles.css.map */
